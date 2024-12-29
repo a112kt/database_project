@@ -1,0 +1,22 @@
+﻿@model Room
+<form asp-action="Update" method="post" class="border border border-2 p-4 border-warning  p-4 m-5">
+
+    <lable>Id</lable>
+    <input asp-for="RoomId" class="form-control" />
+    <br />
+
+    <lable>Type</lable>
+    <input asp-for="Type" class="form-control" />
+    <br />
+
+    <lable>Status</lable>
+    <input asp-for="Status" class="form-control" />
+    <br />
+
+    <lable>Price</lable>
+    <input asp-for="Price" class="form-control" />
+    <br />
+
+    <button type="submit" class="btn btn-success px-5">Update</button>
+
+</form>

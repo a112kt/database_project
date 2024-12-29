@@ -1,0 +1,32 @@
+﻿@{
+    ViewData["Title"] = "Room Data";
+}
+@model IEnumerable<VgetDataOfRoom>
+
+<div class="container d-flex flex-column justify-content-center mt-5">
+    <div class="row">
+        <div class="col-md-11">
+            <table class="table  border border-2 p-4 border-warning ms-2">
+                <thead>
+                    <tr>
+                        <th scope="row">ID</th>
+                        <th>Room Type</th>
+                        <th>Status</th>
+                        <th>Price</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var Room in Model)
+                    {
+                        <tr>
+                            <td>@Room.RoomId</td>
+                            <td>@Room.Type</td>
+                            <td>@Room.Status</td>
+                            <td>@Room.Price</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,315 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\M SQL\\DataBase Project\\HotelSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A62FF4-5593-49F2-9BBB-652B99ACA030}|HotelSystem\\HotelSystem.csproj|d:\\m sql\\database project\\hotelsystem\\hotelsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9A62FF4-5593-49F2-9BBB-652B99ACA030}|HotelSystem\\HotelSystem.csproj|solutionrelative:hotelsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A62FF4-5593-49F2-9BBB-652B99ACA030}|HotelSystem\\HotelSystem.csproj|d:\\m sql\\database project\\hotelsystem\\hotelsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9A62FF4-5593-49F2-9BBB-652B99ACA030}|HotelSystem\\HotelSystem.csproj|solutionrelative:hotelsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A62FF4-5593-49F2-9BBB-652B99ACA030}|HotelSystem\\HotelSystem.csproj|d:\\m sql\\database project\\hotelsystem\\hotelsystem\\views\\home\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9A62FF4-5593-49F2-9BBB-652B99ACA030}|HotelSystem\\HotelSystem.csproj|solutionrelative:hotelsystem\\views\\home\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A62FF4-5593-49F2-9BBB-652B99ACA030}|HotelSystem\\HotelSystem.csproj|d:\\m sql\\database project\\hotelsystem\\hotelsystem\\wwwroot\\css\\main_style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F9A62FF4-5593-49F2-9BBB-652B99ACA030}|HotelSystem\\HotelSystem.csproj|solutionrelative:hotelsystem\\wwwroot\\css\\main_style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A62FF4-5593-49F2-9BBB-652B99ACA030}|HotelSystem\\HotelSystem.csproj|d:\\m sql\\database project\\hotelsystem\\hotelsystem\\views\\home\\getroomdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9A62FF4-5593-49F2-9BBB-652B99ACA030}|HotelSystem\\HotelSystem.csproj|solutionrelative:hotelsystem\\views\\home\\getroomdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A62FF4-5593-49F2-9BBB-652B99ACA030}|HotelSystem\\HotelSystem.csproj|d:\\m sql\\database project\\hotelsystem\\hotelsystem\\views\\guest\\getguestdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9A62FF4-5593-49F2-9BBB-652B99ACA030}|HotelSystem\\HotelSystem.csproj|solutionrelative:hotelsystem\\views\\guest\\getguestdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A62FF4-5593-49F2-9BBB-652B99ACA030}|HotelSystem\\HotelSystem.csproj|d:\\m sql\\database project\\hotelsystem\\hotelsystem\\views\\reservation\\roomreservation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9A62FF4-5593-49F2-9BBB-652B99ACA030}|HotelSystem\\HotelSystem.csproj|solutionrelative:hotelsystem\\views\\reservation\\roomreservation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A62FF4-5593-49F2-9BBB-652B99ACA030}|HotelSystem\\HotelSystem.csproj|d:\\m sql\\database project\\hotelsystem\\hotelsystem\\views\\room\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9A62FF4-5593-49F2-9BBB-652B99ACA030}|HotelSystem\\HotelSystem.csproj|solutionrelative:hotelsystem\\views\\room\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A62FF4-5593-49F2-9BBB-652B99ACA030}|HotelSystem\\HotelSystem.csproj|d:\\m sql\\database project\\hotelsystem\\hotelsystem\\views\\room\\getroomdataa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9A62FF4-5593-49F2-9BBB-652B99ACA030}|HotelSystem\\HotelSystem.csproj|solutionrelative:hotelsystem\\views\\room\\getroomdataa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A62FF4-5593-49F2-9BBB-652B99ACA030}|HotelSystem\\HotelSystem.csproj|d:\\m sql\\database project\\hotelsystem\\hotelsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F9A62FF4-5593-49F2-9BBB-652B99ACA030}|HotelSystem\\HotelSystem.csproj|solutionrelative:hotelsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A62FF4-5593-49F2-9BBB-652B99ACA030}|HotelSystem\\HotelSystem.csproj|d:\\m sql\\database project\\hotelsystem\\hotelsystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A62FF4-5593-49F2-9BBB-652B99ACA030}|HotelSystem\\HotelSystem.csproj|solutionrelative:hotelsystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A62FF4-5593-49F2-9BBB-652B99ACA030}|HotelSystem\\HotelSystem.csproj|d:\\m sql\\database project\\hotelsystem\\hotelsystem\\views\\guest\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9A62FF4-5593-49F2-9BBB-652B99ACA030}|HotelSystem\\HotelSystem.csproj|solutionrelative:hotelsystem\\views\\guest\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A62FF4-5593-49F2-9BBB-652B99ACA030}|HotelSystem\\HotelSystem.csproj|d:\\m sql\\database project\\hotelsystem\\hotelsystem\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A62FF4-5593-49F2-9BBB-652B99ACA030}|HotelSystem\\HotelSystem.csproj|solutionrelative:hotelsystem\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A62FF4-5593-49F2-9BBB-652B99ACA030}|HotelSystem\\HotelSystem.csproj|d:\\m sql\\database project\\hotelsystem\\hotelsystem\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A62FF4-5593-49F2-9BBB-652B99ACA030}|HotelSystem\\HotelSystem.csproj|solutionrelative:hotelsystem\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A62FF4-5593-49F2-9BBB-652B99ACA030}|HotelSystem\\HotelSystem.csproj|d:\\m sql\\database project\\hotelsystem\\hotelsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A62FF4-5593-49F2-9BBB-652B99ACA030}|HotelSystem\\HotelSystem.csproj|solutionrelative:hotelsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A62FF4-5593-49F2-9BBB-652B99ACA030}|HotelSystem\\HotelSystem.csproj|d:\\m sql\\database project\\hotelsystem\\hotelsystem\\controllers\\guestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A62FF4-5593-49F2-9BBB-652B99ACA030}|HotelSystem\\HotelSystem.csproj|solutionrelative:hotelsystem\\controllers\\guestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A62FF4-5593-49F2-9BBB-652B99ACA030}|HotelSystem\\HotelSystem.csproj|d:\\m sql\\database project\\hotelsystem\\hotelsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A62FF4-5593-49F2-9BBB-652B99ACA030}|HotelSystem\\HotelSystem.csproj|solutionrelative:hotelsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\M SQL\\DataBase Project\\HotelSystem\\HotelSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "HotelSystem\\appsettings.json",
+              "ToolTip": "D:\\M SQL\\DataBase Project\\HotelSystem\\HotelSystem\\appsettings.json",
+              "RelativeToolTip": "HotelSystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-25T21:47:34.407Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\M SQL\\DataBase Project\\HotelSystem\\HotelSystem\\Program.cs",
+              "RelativeDocumentMoniker": "HotelSystem\\Program.cs",
+              "ToolTip": "D:\\M SQL\\DataBase Project\\HotelSystem\\HotelSystem\\Program.cs",
+              "RelativeToolTip": "HotelSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T14:54:17.991Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\M SQL\\DataBase Project\\HotelSystem\\HotelSystem\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "HotelSystem\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\M SQL\\DataBase Project\\HotelSystem\\HotelSystem\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "HotelSystem\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T14:27:16.864Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GuestController.cs",
+              "DocumentMoniker": "D:\\M SQL\\DataBase Project\\HotelSystem\\HotelSystem\\Controllers\\GuestController.cs",
+              "RelativeDocumentMoniker": "HotelSystem\\Controllers\\GuestController.cs",
+              "ToolTip": "D:\\M SQL\\DataBase Project\\HotelSystem\\HotelSystem\\Controllers\\GuestController.cs",
+              "RelativeToolTip": "HotelSystem\\Controllers\\GuestController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T02:03:42.806Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RoomController.cs",
+              "DocumentMoniker": "D:\\M SQL\\DataBase Project\\HotelSystem\\HotelSystem\\Controllers\\RoomController.cs",
+              "RelativeDocumentMoniker": "HotelSystem\\Controllers\\RoomController.cs",
+              "ToolTip": "D:\\M SQL\\DataBase Project\\HotelSystem\\HotelSystem\\Controllers\\RoomController.cs",
+              "RelativeToolTip": "HotelSystem\\Controllers\\RoomController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T02:17:02.667Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReservationController.cs",
+              "DocumentMoniker": "D:\\M SQL\\DataBase Project\\HotelSystem\\HotelSystem\\Controllers\\ReservationController.cs",
+              "RelativeDocumentMoniker": "HotelSystem\\Controllers\\ReservationController.cs",
+              "ToolTip": "D:\\M SQL\\DataBase Project\\HotelSystem\\HotelSystem\\Controllers\\ReservationController.cs",
+              "RelativeToolTip": "HotelSystem\\Controllers\\ReservationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T02:03:01.6Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\M SQL\\DataBase Project\\HotelSystem\\HotelSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HotelSystem\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\M SQL\\DataBase Project\\HotelSystem\\HotelSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HotelSystem\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T15:04:06.874Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetRoomData.cshtml",
+              "DocumentMoniker": "D:\\M SQL\\DataBase Project\\HotelSystem\\HotelSystem\\Views\\Home\\GetRoomData.cshtml",
+              "RelativeDocumentMoniker": "HotelSystem\\Views\\Home\\GetRoomData.cshtml",
+              "ToolTip": "D:\\M SQL\\DataBase Project\\HotelSystem\\HotelSystem\\Views\\Home\\GetRoomData.cshtml",
+              "RelativeToolTip": "HotelSystem\\Views\\Home\\GetRoomData.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T17:12:35.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RoomReservation.cshtml",
+              "DocumentMoniker": "D:\\M SQL\\DataBase Project\\HotelSystem\\HotelSystem\\Views\\Reservation\\RoomReservation.cshtml",
+              "RelativeDocumentMoniker": "HotelSystem\\Views\\Reservation\\RoomReservation.cshtml",
+              "ToolTip": "D:\\M SQL\\DataBase Project\\HotelSystem\\HotelSystem\\Views\\Reservation\\RoomReservation.cshtml",
+              "RelativeToolTip": "HotelSystem\\Views\\Reservation\\RoomReservation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T17:11:03.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "D:\\M SQL\\DataBase Project\\HotelSystem\\HotelSystem\\Views\\Room\\Update.cshtml",
+              "RelativeDocumentMoniker": "HotelSystem\\Views\\Room\\Update.cshtml",
+              "ToolTip": "D:\\M SQL\\DataBase Project\\HotelSystem\\HotelSystem\\Views\\Room\\Update.cshtml",
+              "RelativeToolTip": "HotelSystem\\Views\\Room\\Update.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAEAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T17:09:45.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main_style.css",
+              "DocumentMoniker": "D:\\M SQL\\DataBase Project\\HotelSystem\\HotelSystem\\wwwroot\\css\\main_style.css",
+              "RelativeDocumentMoniker": "HotelSystem\\wwwroot\\css\\main_style.css",
+              "ToolTip": "D:\\M SQL\\DataBase Project\\HotelSystem\\HotelSystem\\wwwroot\\css\\main_style.css",
+              "RelativeToolTip": "HotelSystem\\wwwroot\\css\\main_style.css",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-26T13:55:10.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\M SQL\\DataBase Project\\HotelSystem\\HotelSystem\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "HotelSystem\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\M SQL\\DataBase Project\\HotelSystem\\HotelSystem\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "HotelSystem\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T21:39:47.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "D:\\M SQL\\DataBase Project\\HotelSystem\\HotelSystem\\Views\\Home\\Search.cshtml",
+              "RelativeDocumentMoniker": "HotelSystem\\Views\\Home\\Search.cshtml",
+              "ToolTip": "D:\\M SQL\\DataBase Project\\HotelSystem\\HotelSystem\\Views\\Home\\Search.cshtml",
+              "RelativeToolTip": "HotelSystem\\Views\\Home\\Search.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T14:02:11.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetRoomDataa.cshtml",
+              "DocumentMoniker": "D:\\M SQL\\DataBase Project\\HotelSystem\\HotelSystem\\Views\\Room\\GetRoomDataa.cshtml",
+              "RelativeDocumentMoniker": "HotelSystem\\Views\\Room\\GetRoomDataa.cshtml",
+              "ToolTip": "D:\\M SQL\\DataBase Project\\HotelSystem\\HotelSystem\\Views\\Room\\GetRoomDataa.cshtml",
+              "RelativeToolTip": "HotelSystem\\Views\\Room\\GetRoomDataa.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T21:26:06.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetGuestData.cshtml",
+              "DocumentMoniker": "D:\\M SQL\\DataBase Project\\HotelSystem\\HotelSystem\\Views\\Guest\\GetGuestData.cshtml",
+              "RelativeDocumentMoniker": "HotelSystem\\Views\\Guest\\GetGuestData.cshtml",
+              "ToolTip": "D:\\M SQL\\DataBase Project\\HotelSystem\\HotelSystem\\Views\\Guest\\GetGuestData.cshtml",
+              "RelativeToolTip": "HotelSystem\\Views\\Guest\\GetGuestData.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T18:10:35.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\M SQL\\DataBase Project\\HotelSystem\\HotelSystem\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "HotelSystem\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\M SQL\\DataBase Project\\HotelSystem\\HotelSystem\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "HotelSystem\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAuwCQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T13:03:57.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\M SQL\\DataBase Project\\HotelSystem\\HotelSystem\\Views\\Guest\\Add.cshtml",
+              "RelativeDocumentMoniker": "HotelSystem\\Views\\Guest\\Add.cshtml",
+              "ToolTip": "D:\\M SQL\\DataBase Project\\HotelSystem\\HotelSystem\\Views\\Guest\\Add.cshtml",
+              "RelativeToolTip": "HotelSystem\\Views\\Guest\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T21:16:07.192Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

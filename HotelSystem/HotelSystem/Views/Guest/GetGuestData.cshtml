@@ -1,0 +1,39 @@
+﻿@{
+    ViewData["Title"] = "Guest Data";
+}
+@model List<Guest>
+
+<div class="container d-flex flex-column justify-content-center mt-5">
+    <div class="row mt-5">
+        <div class="col-md-11">
+            <table class="table border border-4 p-1 border-warning ms-2">
+                <thead>
+                    <tr>
+                        <th>Id</th>
+                        <th>First Name</th>
+                        <th>Last Name</th>
+                        <th>Email</th>
+                        <th>Address</th>
+                        <th>Phone Number</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var guest in Model)
+                    {
+                        <tr>
+                            <td>@guest.GuId</td>
+                            <td>@guest.Fname</td>
+                            <td>@guest.Lname</td>
+                            <td>@guest.Email</td>
+                            <td>@guest.Address</td>
+                            <td>@guest.PhoneNumber</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+            <form asp-action="Add" method="get">
+                <button type="submit" class="btn btn-success px-5">Add Guest</button>
+            </form>
+        </div>
+    </div>
+</div>

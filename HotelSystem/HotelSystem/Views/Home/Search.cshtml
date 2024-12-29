@@ -1,0 +1,43 @@
+﻿@{
+    ViewData["Title"] = "Guest Search";
+}
+
+@model IEnumerable<HotelSystem.ViewModels.GuestResViewModel>
+
+@if (Model != null && Model.Any())
+{
+    <h2 class="text-center text-warning mt-5">Guest Room Details</h2>
+    <div class="container d-flex flex-column justify-content-center mt-5">
+    <div class="row">
+        <div class="col-md-11">
+                <table class="table border border-2 border-black ms-2">
+                <thead>
+                    <tr>
+                        <th>Full Name</th>
+                        <th>Room Type</th>
+                        <th>Room Status</th>
+                        <th>Check-In Date</th>
+                        <th>Check-Out Date</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@item.FullName</td>
+                            <td>@item.Type</td>
+                            <td>@item.Status</td>
+                            <td>@item.CheckIn_Date.ToString("yyyy-MM-dd")</td>
+                            <td>@item.Checkout_Date.ToString("yyyy-MM-dd")</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+            </div>
+        </div>
+    </div>
+}
+else
+{
+    <p>No results found for the provided Guest ID.</p>
+}

@@ -1,0 +1,39 @@
+﻿@{
+    ViewData["Title"] = "Delete Reservation";
+}
+@model IEnumerable<HotelSystem.ViewModels.RoomReservationViewModel>
+
+<h2 class="text-center mt-3">Room Reservations</h2>
+<div class="container d-flex flex-column justify-content-center mt-5">
+    <div class="row">
+        <div class="col-md-11">
+            <table class="table border border-2 p-4 border-warning  ms-2">
+                <thead>
+                    <tr>
+                        <th>Room ID</th>
+                        <th>Type</th>
+                        <th>Status</th>
+                        <th>Reservation ID</th>
+                        <th>Action</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var Res in Model)
+                    {
+                        <tr>
+                            <td>@Res.RoomId</td>
+                            <td>@Res.RoomType</td>
+                            <td>@Res.RoomStatus</td>
+                            <td>@Res.ReservationId</td>
+                            <td>
+                                <form method="post" asp-action="Delete" asp-route-RoomId="@Res.RoomId">
+                                    <button type="submit" class="btn btn-danger">Delete</button>
+                                </form>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
